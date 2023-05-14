@@ -1,14 +1,17 @@
+
 # Optimization of Marketing Campaigns through Predictive Modeling and Advanced Statistical Analysis
 Table of Contents
-Introduction
-Project Description
-Technologies
-Setup
-How to use?
-Contribution
-Acknowledgements
-Disclaimer
-License
+
+ 1. Introduction 
+ 2. Project Description 
+ 3. Technologies 
+ 4. Setup 
+ 5. How to use?
+ 6. Contribution 
+ 7. Acknowledgements 
+ 8. Disclaimer 
+ 9. License
+
 <a name="introduction"></a>
 
 Introduction
